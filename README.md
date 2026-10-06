@@ -138,11 +138,11 @@ The application also provides the relevant course video and timestamp, allowing 
 
                    ▼
 
-         AI Answer + Sources
+           AI Answer + Sources
 
                    │
 
                    ▼
 
-         🎥 Video + Timestamp
+          🎥 Video + Timestamp
 
