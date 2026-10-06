@@ -1,6 +1,6 @@
 
 
-\🚀 RAG based – AI-Powered Course Assistant
+<b>🚀 RAG based – AI-Powered Course Assistant<b>
 
 
 
@@ -8,11 +8,11 @@
 
 
 
-\---
+---
 
 
 
-\📌 Project Overview
+📌 Project Overview
 
 
 
@@ -28,11 +28,11 @@ The application also provides the \*\*relevant course video and timestamp\*\*, a
 
 
 
-\---
+---
 
 
 
-\ ✨ Key Features
+✨ Key Features
 
 
 
@@ -70,81 +70,81 @@ The application also provides the \*\*relevant course video and timestamp\*\*, a
 
 
 
-\🏗️ System Architecture
+🏗️ System Architecture
 
 
 
 ```text
 
-&#x20;               👨‍🎓 Student
+               👨‍🎓 Student
 
-&#x20;                   │
+                   │
 
-&#x20;                   ▼
+                   ▼
 
-&#x20;         ┌────────────────────┐
+         ┌────────────────────┐
 
-&#x20;         │   React Frontend   │
+         │   React Frontend   │
 
-&#x20;         └─────────┬──────────┘
+         └─────────┬──────────┘
 
-&#x20;                   │
+                   │
 
-&#x20;                   ▼
+                   ▼
 
-&#x20;         ┌────────────────────┐
+         ┌────────────────────┐
 
-&#x20;         │   FastAPI Backend  │
+         │   FastAPI Backend  │
 
-&#x20;         └─────────┬──────────┘
+         └─────────┬──────────┘
 
-&#x20;                   │
+                   │
 
-&#x20;                   ▼
+                   ▼
 
-&#x20;         ┌────────────────────┐
+         ┌────────────────────┐
 
-&#x20;         │   BGE-M3 Embedding │
+         │   BGE-M3 Embedding │
 
-&#x20;         └─────────┬──────────┘
+         └─────────┬──────────┘
 
-&#x20;                   │
+                   │
 
-&#x20;                   ▼
+                   ▼
 
-&#x20;         ┌────────────────────┐
+         ┌────────────────────┐
 
-&#x20;         │ Semantic Similarity│
+         │ Semantic Similarity│
 
-&#x20;         │   Search / RAG     │
+         │   Search / RAG     │
 
-&#x20;         └─────────┬──────────┘
+         └─────────┬──────────┘
 
-&#x20;                   │
+                   │
 
-&#x20;                   ▼
+                   ▼
 
-&#x20;           Top Relevant Chunks
+           Top Relevant Chunks
 
-&#x20;                   │
+                   │
 
-&#x20;                   ▼
+                   ▼
 
-&#x20;         ┌────────────────────┐
+         ┌────────────────────┐
 
-&#x20;         │    Llama 3.2 LLM   │
+         │    Llama 3.2 LLM   │
 
-&#x20;         └─────────┬──────────┘
+         └─────────┬──────────┘
 
-&#x20;                   │
+                   │
 
-&#x20;                   ▼
+                   ▼
 
-&#x20;         AI Answer + Sources
+         AI Answer + Sources
 
-&#x20;                   │
+                   │
 
-&#x20;                   ▼
+                   ▼
 
-&#x20;         🎥 Video + Timestamp
+         🎥 Video + Timestamp
 
