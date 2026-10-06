@@ -4,7 +4,7 @@
 
 
 
-> An AI-powered course assistant that uses \*\*Retrieval-Augmented Generation (RAG)\*\* and \*\*Semantic Search\*\* to answer questions from course video content and guide students to the relevant video and timestamp.
+> An AI-powered course assistant that uses Retrieval-Augmented Generation (RAG) and Semantic Search to answer questions from course video content and guide students to the relevant video and timestamp.
 
 
 
@@ -16,7 +16,7 @@
 
 
 
-\*\*RAG\*\* is an AI-based Teaching Assistant designed for web development courses.
+RAG is an AI-based Teaching Assistant designed for web development courses.
 
 
 
@@ -24,7 +24,7 @@ Instead of searching through long course videos manually, students can simply as
 
 
 
-The application also provides the \*\*relevant course video and timestamp\*\*, allowing students to directly continue learning from the appropriate section.
+The application also provides the relevant course video and timestamp, allowing students to directly continue learning from the appropriate section.
 
 
 
@@ -57,8 +57,6 @@ The application also provides the \*\*relevant course video and timestamp\*\*, a
 \- ⏱️ Video timestamp references
 
 \- 📖 Course learning interface
-
-\- 📊 Progress section
 
 \- 📝 Practice section
 
