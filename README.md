@@ -1,6 +1,6 @@
 
 
-\# 🚀 RAG based – AI-Powered Course Assistant
+\🚀 RAG based – AI-Powered Course Assistant
 
 
 
@@ -12,7 +12,7 @@
 
 
 
-\## 📌 Project Overview
+\📌 Project Overview
 
 
 
@@ -32,7 +32,7 @@ The application also provides the \*\*relevant course video and timestamp\*\*, a
 
 
 
-\## ✨ Key Features
+\ ✨ Key Features
 
 
 
@@ -70,7 +70,7 @@ The application also provides the \*\*relevant course video and timestamp\*\*, a
 
 
 
-\## 🏗️ System Architecture
+\🏗️ System Architecture
 
 
 
